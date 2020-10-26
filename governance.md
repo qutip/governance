@@ -73,7 +73,7 @@ The admin team agrees to keep in touch regularly, through the qutip-admin channe
 **Members of the Board make sure that the Admin Team and project is well supported financially and logistically.** Thanks to them helping enable the financial and logistics support, through scientific advisory and by keeping an eye on the project, they make the life of the admin team easier. 
 
 **<span style="text-decoration:underline;">Tasks</span>**
-Board members are volunteers that pledge to:
+Board members are volunteers that pledge to (as appropriate to their current positions and commitments elsewhere):
 
 - Meet** [once] **a year to review the development of the project (also online).
 - Be consulted for scientific advice by the admins. 
