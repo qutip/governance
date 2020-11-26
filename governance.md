@@ -10,7 +10,7 @@ In this document we refer to the “QuTiP project” or “ the project” with 
 
 **<span style="text-decoration:underline;">The Community</span>**
 
-QuTiP is at the center of a lively ecosystem and creative community. As of October 2020, QuTiP’s large community comprises over 80 code contributors and thousands of users that have downloaded the software over 300’000 times. QuTiP enables an infrastructure of other scientific libraries for the investigation of specific quantum physics or quantum information processing features. 
+QuTiP is at the center of a lively ecosystem and creative community. As of October 2020, QuTiP’s large community comprises over 80 code contributors and thousands of users that have downloaded the software over 300,000 times. QuTiP enables an infrastructure of other scientific libraries for the investigation of specific quantum physics or quantum information processing features. 
 
 There are several ways through which members of the wider QuTiP community can receive information on QuTiP. This is through any of its official channels: the Google forum; the qutip.org/news webpage tracking the releases on Github, and opening [Issues](https://github.com/qutip/qutip/issues) on Github to file bug reports or discuss and proposed enhancements. Users are encouraged to contribute bug fixes or enhancements to the project with [Pull Requests](https://github.com/qutip/qutip/pulls).
 
