@@ -9,3 +9,4 @@ The functioning of the admin team of the QuTiP project can be found in the [gove
 - Jake Lishman
 - Alex Pitchford
 - Nathan Shammah
+- Simon Cross
