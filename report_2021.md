@@ -13,6 +13,10 @@ This year was also **QuTiP's 10th anniversary** -- congratulations and
 thank you's to everyone who contributed to getting us where we are
 today, and here's to the next ten years!
 
+Best wishes, 
+
+The QuTiP Admin Team
+
 **Asier Galicia has been welcomed to the QuTiP admin team**.
 
 [QuTiP 2021 Annual Report](#qutip-2021-annual-report)
@@ -75,9 +79,6 @@ today, and here's to the next ten years!
 
 -   The QuTiP community calls are being held on the Unitary Fund Discord.
 
-```{=html}
-<!-- -->
-```
 -   QuTiP was one of the featured projects in [UnitaryHACK](https://unitaryfund.github.io/unitaryhack/participating-projects.html#qutip), a distributed bounty hack supporting quantum open source software. Three hacks were awarded.
 
 Unitary Fund has awarded the following grants for projects involving
@@ -91,7 +92,7 @@ QuTiP:
 
 -   Added Asier Galicia (former GSoC student and RIKEN intern) to the qutip admins. He is working on qutip-tensornetworks.
 
--   RIKEN[:]
+-   Updates from RIKEN:
 
     -   Simon Cross started full-time at RIKEN in May (focused on QuTiP development)
 
@@ -99,11 +100,8 @@ QuTiP:
 
 ## Papers
 
--   *"Pulse-level noisy quantum circuits with QuTiP"* by Boxi Li, Shahnawaz Ahmed, Sidhant Saraogi, Neill Lambert, Franco Nori, Alexander Pitchford, Nathan Shammah,[*[Quantum]{.ul}*](https://quantum-journal.org/papers/q-2022-01-24-630/) **6**, 630 (2022).
+-   *"Pulse-level noisy quantum circuits with QuTiP"* by Boxi Li, Shahnawaz Ahmed, Sidhant Saraogi, Neill Lambert, Franco Nori, Alexander Pitchford, Nathan Shammah,*[Quantum](https://quantum-journal.org/papers/q-2022-01-24-630/)* **6**, 630 (2022).
 
-```{=html}
-<!-- -->
-```
 -   "*BoFiN-HEOM: A bosonic and fermionic numerical hierarchical-equations-of-motion library with applications in light-harvesting, quantum control, and single-molecule electronics*" by Neill Lambert, Tarun Raheja, Simon Cross, Paul Menczel, Shahnawaz Ahmed, Alexander Pitchford,Daniel Burgarth, Franco Nori \[soon to be updated\]
 
 ## Major improvements
@@ -112,7 +110,7 @@ QuTiP:
 
 -   A pluggable system of solvers and ODE integrators was added.
 
--   State of the art Verner ODE integrators that use the new data layer were added (see [Refuge for Runge-Kutta Pairs](http://people.math.sfu.ca/~jverner/))
+-   State of the art Verner ODE integrators that use the new data layer were added (see [Refuge for Runge-Kutta Pairs (http://people.math.sfu.ca/~jverner/))
 
 -   QuTiP's new data layer was completed
 
@@ -158,8 +156,7 @@ QuTiP:
 
 -   QuTiP issues:
 
-    -   [108 issues created](https://github.com/qutip/qutip/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-12-31)
-        > (of which 81 have been resolved)
+    -   [108 issues created](https://github.com/qutip/qutip/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-12-31)(of which 81 have been resolved)
 
     -   [151 issues closed](https://github.com/qutip/qutip/issues?q=is%3Aissue+is%3Aopen+closed%3A2021-01-01..2021-12-31+)
 
@@ -187,31 +184,20 @@ QuTiP:
 
 ## Upcoming Projects & Ideas for the Future
 
--   We expect QuTiP 4.6.3, QuTiP 4.7 and the alpha release of QuTiP 5 to
-    > all take place in Q1/Q2 2022.
+-   We expect QuTiP 4.6.3, QuTiP 4.7 and the alpha release of QuTiP 5 to all take place in Q1/Q2 2022.
 
--   We then expect a period of some months improving the alpha release
-    > and getting community feedback before moving onto a beta release.
+-   We then expect a period of some months improving the alpha release and getting community feedback before moving onto a beta release.
 
--   We expect QuTiP 4.7 to be maintained for some time in order to allow
-    > users to transition to QuTiP 5.
+-   We expect QuTiP 4.7 to be maintained for some time in order to allow users to transition to QuTiP 5.
 
--   QuTiP are participating in Google Summer of Code 2022 with NumFOCUS,
-    > applications start today, April 4th, 2022 and close April
-    > 19th, 2022. Any help in spreading the word is welcome. Here the
-    > link to the project ideas, which are:
+-   QuTiP are participating in Google Summer of Code 2022 with NumFOCUS, applications start today, April 4th, 2022 and close April 19th, 2022. Any help in spreading the word is welcome. Here the link to the project ideas, which are:
 
-    -   [1 - QuTiP Notebooks
-        > 5](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-notebooks-5)
+    -   [1 - QuTiP Notebooks 5](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-notebooks-5)
 
-    -   [2 - QuTiP
-        > Benchmarks](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-benchmarks)
+    -   [2 - QuTiP Benchmarks](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-benchmarks)
 
-    -   [3 - QuTiP Virtual
-        > Lab](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-virtual-lab)
+    -   [3 - QuTiP Virtual Lab](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-virtual-lab)
 
-    -   [4 - qutip-qip as a Qiskit
-        > backend](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-qip-as-a-Qiskit-backend)
+    -   [4 - qutip-qip as a Qiskit backend](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-qip-as-a-Qiskit-backend)
 
-    -   [5 - JAX data
-        > backend](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#JAX-data-backend)
+    -   [5 - JAX data backend](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#JAX-data-backend)
