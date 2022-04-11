@@ -17,19 +17,17 @@ Best wishes,
 
 The QuTiP Admin Team
 
-**Asier Galicia has been welcomed to the QuTiP admin team**.
+## Contents
 
-[QuTiP 2021 Annual Report](#qutip-2021-annual-report)
-
-[Community Events & Projects](#community-events-and-projects)
-
-[Downloads and Use](#downloads-and-use)
-[Unitary Fund Grants to QuTiP projects](#unitary-fund-support)
-[Jobs](#jobs)
-[Papers](#papers)
-[Major improvements](#major-improvements)
-[Development](#development)
-[Upcoming Projects & Ideas for the Future](#upcoming-projects-ideas-for-the-future)
+- [QuTiP 2021 Annual Report](#qutip-2021-annual-report)
+- [Community Events & Projects](#community-events-and-projects)
+- [Downloads and Use](#downloads-and-use)
+- [Unitary Fund Grants to QuTiP projects](#unitary-fund-support)
+- [Jobs](#jobs)
+- [Papers](#papers)
+- [Major improvements](#major-improvements)
+- [Development](#development)
+- [Upcoming Projects & Ideas for the Future](#upcoming-projects-ideas-for-the-future)
 
 ## Community Events and Projects
 
@@ -67,7 +65,7 @@ The QuTiP Admin Team
 
 -   Total downloads from PyPI (and last 30 days):
 
-    -   QuTiP: [277 046](https://pepy.tech/project/qutip)(14 628)
+    -   QuTiP: [277 046](https://pepy.tech/project/qutip) (14 628)
 
     -   QuTiP QIP: [3298](https://pepy.tech/project/qutip-qip) (509)
 
@@ -100,9 +98,9 @@ QuTiP:
 
 ## Papers
 
--   *"Pulse-level noisy quantum circuits with QuTiP"* by Boxi Li, Shahnawaz Ahmed, Sidhant Saraogi, Neill Lambert, Franco Nori, Alexander Pitchford, Nathan Shammah,*[Quantum](https://quantum-journal.org/papers/q-2022-01-24-630/)* **6**, 630 (2022).
+-   *"Pulse-level noisy quantum circuits with QuTiP"* by Boxi Li, Shahnawaz Ahmed, Sidhant Saraogi, Neill Lambert, Franco Nori, Alexander Pitchford, Nathan Shammah, *[Quantum](https://quantum-journal.org/papers/q-2022-01-24-630/)* **6**, 630 (2022).
 
--   "*BoFiN-HEOM: A bosonic and fermionic numerical hierarchical-equations-of-motion library with applications in light-harvesting, quantum control, and single-molecule electronics*" by Neill Lambert, Tarun Raheja, Simon Cross, Paul Menczel, Shahnawaz Ahmed, Alexander Pitchford,Daniel Burgarth, Franco Nori \[soon to be updated\]
+-   *"BoFiN-HEOM: A bosonic and fermionic numerical hierarchical-equations-of-motion library with applications in light-harvesting, quantum control, and single-molecule electronics"* by Neill Lambert, Tarun Raheja, Simon Cross, Paul Menczel, Shahnawaz Ahmed, Alexander Pitchford,Daniel Burgarth, Franco Nori \[soon to be updated\]
 
 ## Major improvements
 
@@ -128,23 +126,23 @@ QuTiP:
 
 -   QuTiP releases:
 
-    -   [4.5.3](https://github.com/qutip/qutip/releases/tag/v4.5.3)(19 February 2021)
+    -   [4.5.3](https://github.com/qutip/qutip/releases/tag/v4.5.3) (19 February 2021)
 
-    -   [4.6.0](https://github.com/qutip/qutip/releases/tag/v4.6.0)(11 April 2021)
+    -   [4.6.0](https://github.com/qutip/qutip/releases/tag/v4.6.0) (11 April 2021)
 
-    -   [4.6.1](https://github.com/qutip/qutip/releases/tag/v4.6.1)(5 May 2021)
+    -   [4.6.1](https://github.com/qutip/qutip/releases/tag/v4.6.1) (5 May 2021)
 
-    -   [4.6.2](https://github.com/qutip/qutip/releases/tag/v4.6.2)(2 June 2021)
+    -   [4.6.2](https://github.com/qutip/qutip/releases/tag/v4.6.2) (2 June 2021)
 
 -   QuTiP QIP releases:
 
-    -   [0.1.0](https://github.com/qutip/qutip-qip/releases/tag/v0.1.0)(14 May 2021)
+    -   [0.1.0](https://github.com/qutip/qutip-qip/releases/tag/v0.1.0) (14 May 2021)
 
-    -   [0.1.1](https://github.com/qutip/qutip-qip/releases/tag/v0.1.1)(28 July 2021)
+    -   [0.1.1](https://github.com/qutip/qutip-qip/releases/tag/v0.1.1) (28 July 2021)
 
-    -   [0.1.2](https://github.com/qutip/qutip-qip/releases/tag/v0.1.2)(24 November 2021)
+    -   [0.1.2](https://github.com/qutip/qutip-qip/releases/tag/v0.1.2) (24 November 2021)
 
-    -   [0.2.0](https://github.com/qutip/qutip-qip/releases/tag/v0.2.0)(26 November 2021)
+    -   [0.2.0](https://github.com/qutip/qutip-qip/releases/tag/v0.2.0) (26 November 2021)
 
 -   QuTiP commits:
 
@@ -156,7 +154,7 @@ QuTiP:
 
 -   QuTiP issues:
 
-    -   [108 issues created](https://github.com/qutip/qutip/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-12-31)(of which 81 have been resolved)
+    -   [108 issues created](https://github.com/qutip/qutip/issues?q=is%3Aissue+is%3Aopen+created%3A2021-01-01..2021-12-31) (of which 81 have been resolved)
 
     -   [151 issues closed](https://github.com/qutip/qutip/issues?q=is%3Aissue+is%3Aopen+closed%3A2021-01-01..2021-12-31+)
 
@@ -166,7 +164,7 @@ QuTiP:
 
 -   QuTiP pull requests:
 
-    -   [194 pull requests created](https://github.com/qutip/qutip/pulls?q=is%3Apr+is%3Aopen+created%3A2021-01-01..2021-12-31+)(of which 183 have been closed)
+    -   [194 pull requests created](https://github.com/qutip/qutip/pulls?q=is%3Apr+is%3Aopen+created%3A2021-01-01..2021-12-31+) (of which 183 have been closed)
 
     -   [199 pull requests closed](https://github.com/qutip/qutip/pulls?q=is%3Apr+is%3Aopen+closed%3A2021-01-01..2021-12-31+)
 
@@ -190,14 +188,4 @@ QuTiP:
 
 -   We expect QuTiP 4.7 to be maintained for some time in order to allow users to transition to QuTiP 5.
 
--   QuTiP are participating in Google Summer of Code 2022 with NumFOCUS, applications start today, April 4th, 2022 and close April 19th, 2022. Any help in spreading the word is welcome. Here the link to the project ideas, which are:
-
-    -   [1 - QuTiP Notebooks 5](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-notebooks-5)
-
-    -   [2 - QuTiP Benchmarks](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-benchmarks)
-
-    -   [3 - QuTiP Virtual Lab](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-virtual-lab)
-
-    -   [4 - qutip-qip as a Qiskit backend](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#qutip-qip-as-a-Qiskit-backend)
-
-    -   [5 - JAX data backend](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022#JAX-data-backend)
+-   QuTiP are participating in Google Summer of Code 2022 with NumFOCUS ([project ideas](https://github.com/qutip/qutip/wiki/Google-Summer-of-Code-2022)).
