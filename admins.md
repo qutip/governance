@@ -4,6 +4,7 @@ The functioning of the admin team of the QuTiP project can be found in the [gove
 
 - Shahnawaz Ahmed
 - Simon Cross
+- Asier Galicia
 - Eric Giguère
 - Neill Lambert
 - Boxi Li
