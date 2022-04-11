@@ -19,7 +19,6 @@ The QuTiP Admin Team
 
 ## Contents
 
-- [QuTiP 2021 Annual Report](#qutip-2021-annual-report)
 - [Community Events & Projects](#community-events-and-projects)
 - [Downloads and Use](#downloads-and-use)
 - [Unitary Fund Grants to QuTiP projects](#unitary-fund-support)
