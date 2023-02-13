@@ -190,6 +190,13 @@ The two Unitary Fund grants awarded last year were completed and merged into QuT
     - by [Christian Staufenbiel](https://github.com/christian512)
     - the [qutip-notebooks](https://github.com/qutip/qutip-notebooks) repository is now deprecated.
 
+- QuTiP was compiled for WebAssembly and can now be run entirely in a browser:
+
+    - [emscriptem-forge recipe](https://github.com/emscripten-forge/recipes/tree/main/recipes/recipes_emscripten/qutip) (builds the emscriptem-forge package)
+    - [emscriptem-forge package](https://beta.mamba.pm/channels/emscripten-forge/packages/qutip)
+    - [try-qutip](https://github.com/qutip/try-qutip/) (JupyterLite configuration)
+    - [website](http://qutip.org/try-qutip/)
+
 ## Upcoming Projects & Ideas for the Future
 
 - We expect 4.7.2 and 5.0.0 to be released in the first half of 2023.
