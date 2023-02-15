@@ -93,7 +93,13 @@ Sources:
 
 - [350 threads in 2022](https://groups.google.com/g/qutip/search?q=after%3A2022-01-01%20before%3A2022-12-31) (vs 255 last year)
 
-## Unitary Fund Support
+## Institutional Support
+
+### RIKEN
+
+- Simon Cross worked on QuTiP full-time at RIKEN this year, funded via the Moonshot grant program.
+
+### Unitary Fund
 
 - QuTiP is supported by Unitary Fund as an affiliated project.
 
@@ -106,12 +112,6 @@ The two Unitary Fund grants awarded last year were completed and merged into QuT
 - Diego Wiskniacki and his students' PyKrylovSolver ([blog post](https://unitary.fund/posts/krylov.html)) was merged into QuTiP on 8 April 2022 in [https://github.com/qutip/qutip/pull/1739].
 
 - Ben Braham's Variational Quantum Algorithms and quantum optimal control project (supervised by Daniel Burgarth) was merged into QuTiP QIP on 22 April 2022 in [https://github.com/qutip/qutip-qip/pull/123/]. It is available as `qutip_qip.vqa`.
-
-## Jobs
-
-- Updates from RIKEN:
-
-    - Simon Cross continued to work on QuTiP full-time at RIKEN this year.
 
 ## Papers
 
