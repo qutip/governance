@@ -87,7 +87,7 @@ Sources:
 Sources:
 
 - Monthly statistics were collected by running ``condastats overall --monthly qutip``.
-- Note: The results returned by condastats are only from March 2017 onwards. There were an additional 204526 downloads from Anaconda or conda-forge before this. These additional downloads have been added to the overall total to present an accurate picture of the complete history. See https://anaconda.org/conda-forge/qutip
+- Note: The results returned by ``condastats`` are only from March 2017 onwards. There were an additional 204526 downloads from Anaconda or conda-forge before this. These additional downloads have been added to the overall total to present an accurate picture of the complete history. The full total was obtained from the [Anacoda stats page for QuTiP](https://anaconda.org/conda-forge/qutip).
 
 ### Mailing list
 
