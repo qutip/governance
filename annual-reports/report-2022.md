@@ -33,8 +33,7 @@ The QuTiP Admin Team
 
 - [Community Events & Projects](#community-events-and-projects)
 - [Downloads and Use](#downloads-and-use)
-- [Unitary Fund Grants to QuTiP projects](#unitary-fund-support)
-- [Jobs](#jobs)
+- [Institutional Support](#institutional-support)
 - [Papers](#papers)
 - [Major improvements](#major-improvements)
 - [Development](#development)
