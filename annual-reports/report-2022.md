@@ -76,6 +76,19 @@ Sources:
 - [QuTiP QIP @ pepy](https://pepy.tech/project/qutip-qip)
 - [QuTiP @ libraries.io](https://libraries.io/pypi/qutip/dependents)
 
+### Conda downloads
+
+| Package                       | 2021    | 2022    | Growth     |
+| :---------------------------- | :-----: | :-----: | :--------: |
+| **QuTiP**                     |         |         |            |
+| - Downloads (total, all time) | 407 145 | 502 775 | **1.23x**  |
+| - Downloads (last 30 days)    | 5 621   | 4 990   | 0.89x      |
+
+Sources:
+
+- Monthly statistics were collected by running ``condastats overall --monthly qutip``.
+- Note: The results returned by condastats are only from March 2017 onwards. There were an additional 204526 downloads from Anaconda or conda-forge before this. These additional downloads have been added to the overall total to present an accurate picture of the complete history. See https://anaconda.org/conda-forge/qutip
+
 ### Mailing list
 
 - [350 threads in 2022](https://groups.google.com/g/qutip/search?q=after%3A2022-01-01%20before%3A2022-12-31) (vs 255 last year)
