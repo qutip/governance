@@ -113,6 +113,12 @@ The two Unitary Fund grants awarded last year were completed and merged into QuT
 
 - Ben Braham's Variational Quantum Algorithms and quantum optimal control project (supervised by Daniel Burgarth) was merged into QuTiP QIP on 22 April 2022 in [https://github.com/qutip/qutip-qip/pull/123/]. It is available as `qutip_qip.vqa`.
 
+### NumFOCUS
+
+- QuTiP remains a NumFOCUS [affiliated project](https://numfocus.org/sponsored-projects/affiliated-projects).
+
+- In 2022, QuTiP took part in Google Summer of Code under the NumFOCUS umbrella.
+
 ## Papers
 
 - *"Pulse-level noisy quantum circuits with QuTiP"* by Boxi Li, Shahnawaz Ahmed, Sidhant Saraogi, Neill Lambert, Franco Nori, Alexander Pitchford, Nathan Shammah, *[Quantum](https://quantum-journal.org/papers/q-2022-01-24-630/)* **6**, 630 (2022).
