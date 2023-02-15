@@ -37,7 +37,7 @@ The QuTiP Admin Team
 - [Papers](#papers)
 - [Major improvements](#major-improvements)
 - [Development](#development)
-- [Upcoming Projects & Ideas for the Future](#upcoming-projects-ideas-for-the-future)
+- [Upcoming Projects & Ideas for the Future](#upcoming-projects--ideas-for-the-future)
 
 ## Community Events and Projects
 
