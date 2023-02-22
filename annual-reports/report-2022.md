@@ -98,6 +98,10 @@ Sources:
 
 - Simon Cross worked on QuTiP full-time at RIKEN this year, funded via the Moonshot grant program.
 
+### Institut Quantique
+
+- Eric Giguère worked on QuTiP at the Institut Quantique of Sherbrooke university this year.
+
 ### Unitary Fund
 
 - QuTiP is supported by Unitary Fund as an affiliated project.
