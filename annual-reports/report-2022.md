@@ -96,11 +96,15 @@ Sources:
 
 ### RIKEN
 
-- Simon Cross worked on QuTiP full-time at RIKEN this year, funded via the Moonshot grant program.
+- Simon Cross worked on QuTiP full-time at [RIKEN](https://www.riken.jp/en/research/labs/chief/theor_qtm_phys/) this year, funded via the Moonshot grant program.
 
 ### Institut Quantique
 
-- Eric Giguère worked on QuTiP at the Institut Quantique of Sherbrooke university this year.
+- Eric Giguère worked on QuTiP at the [Institut Quantique of Sherbrooke University](https://www.usherbrooke.ca/iq/en/) this year.
+
+### Aberystwyth University
+
+- Alex Pitchford worked on QuTiP (primarily in an overseeing role) at [Aberystwyth University](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/agp1/) this year.
 
 ### Unitary Fund
 
